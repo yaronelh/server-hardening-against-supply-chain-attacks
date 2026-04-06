@@ -1,4 +1,4 @@
-# Development VM Hardening Checklist for Supply Chain Resilience
+# Supply Chain Attacks, Hardening Your Dev Environmen
 
 These days, it's way too easy for a random dependency, a sneaky build script, or a compromised package to wreck your day — or worse, your whole environment.
 
