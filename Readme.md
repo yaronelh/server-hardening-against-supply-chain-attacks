@@ -6,7 +6,7 @@ I put this checklist together based on the hardening I did for my own environmen
 
 ## Table of Contents
 
-- [Infrastructure](#infrastructure2)
+- [Infrastructure](#Infrastructure)
 - [Why Use a VM Instead of WSL](#why-use-a-vm-instead-of-wsl)
 - [Access and SSH Hardening](#access-and-ssh-hardening)
 - [Identity, Privilege, and Workspace Separation](#identity-privilege-and-workspace-separation)
@@ -20,7 +20,7 @@ I put this checklist together based on the hardening I did for my own environmen
 - [Validation and Housekeeping](#validation-and-housekeeping)
 - [Suggested Next Actions](#suggested-next-actions)
 
-## Infrastructure <a name="infrastructure2"></a>
+## Infrastructure
 
 I built this around a Windows host, a proper virtual machine layer, and a Linux guest where all the real development work happens. In simple terms, the setup looks like this:
 
